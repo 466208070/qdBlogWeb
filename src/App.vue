@@ -29,7 +29,6 @@ em, i {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  text-align: center;
 }
 
 ul {
@@ -39,7 +38,18 @@ ul {
 
 li {
   display: inline-block;
-  margin: 0 10px;
 }
 
+h1,h2,h3,h4,h5,h6 {
+  color: #18191b;
+}
+p {
+  color: #52555a;
+}
+label {
+  color: #a7abb3;
+}
+.intersperse {
+  color: #e9432b;
+}
 </style>
